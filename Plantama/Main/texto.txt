@@ -1,0 +1,23 @@
+==
+Comandos de Plantama:
+1. /help: Muestra todos los comandos disponibles
+2. /humedad: Muestra el ultimo nivel de humedad registrado
+3. /temperatura - Envía el ultimo nivel de temperatura registrado.
+4. /estado - Muestra el estado general de la planta.
+5. /ayudaregistro - Instrucciones para dar de alta.
+6. /registro - da de alta una nueva planta.
+==
+Instrucciones para hacer un nuevo registro:
+1. Revisa la base de la planta
+2. Manda un mensaje con el siguiente formato:
+       
+    /registro
+    'Numero de serie de la planta'
+       
+Ejemplo:
+    /registro
+    345321
+
+El sistema relacionar� el numero de serie de tu planta con tu nombre de usuario de Telegram
+==
+tu madre
